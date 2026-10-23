@@ -1,126 +1,144 @@
 <div align="center">
 
-<img src="assets/inhost-hero.svg" alt="INHOST — Secure Hosting, Linux Infrastructure and Cybersecurity" width="100%" />
+<img src="assets/inhost-hero.svg" alt="INHOST — Secure Hosting, Infrastructure Engineering and Cybersecurity" width="100%" />
 
 <br/>
 
-[![Official Website](https://img.shields.io/badge/INHOST.MK-OFFICIAL_WEBSITE-1673E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inhost.mk)
-[![Powered by PROCESS IN](https://img.shields.io/badge/POWERED_BY-PROCESS_IN-101827?style=for-the-badge)](https://processin.mk)
-[![Location](https://img.shields.io/badge/BASED_IN-NORTH_MACEDONIA-1B477A?style=for-the-badge)](https://inhost.mk)
+[![Official Website](https://img.shields.io/badge/INHOST.MK-OFFICIAL_WEBSITE-1673E8?style=for-the-badge)](https://inhost.mk)
+[![PROCESS IN](https://img.shields.io/badge/POWERED_BY-PROCESS_IN-111827?style=for-the-badge)](https://processin.mk)
+[![North Macedonia](https://img.shields.io/badge/BASED_IN-NORTH_MACEDONIA-164B88?style=for-the-badge)](https://inhost.mk)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=3200&pause=1100&color=268BFF&center=true&vCenter=true&width=900&lines=Hosting+Built+Around+Security;Linux+%26+Server+Administration;Malware+Scanning+%26+Cleanup;Docker+%7C+Debugging+%7C+Maintenance;Your+Infrastructure.+Our+Responsibility." alt="INHOST hosting, cybersecurity, Linux administration and technical support" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=3B9BFF&center=true&vCenter=true&width=1000&lines=Managed+Hosting+%26+Server+Operations;Cybersecurity+%26+Threat+Remediation;Linux+Administration+%26+Cloud+Infrastructure;Application+Recovery+%26+Performance;Technical+Expertise+Beyond+Hosting" alt="INHOST managed hosting, cybersecurity and infrastructure engineering" />
 
-### Hosting is only the beginning. Protection, expertise and reliability are the difference.
+### Infrastructure that works. Security that matters. Engineers who solve problems.
 
-**Веб-хостинг · Сајбер-безбедност · Linux администрација · Docker · Malware заштита · Дебагирање · Одржување**
+**Managed Hosting · Domains · Cybersecurity · Linux & Cloud · Application Support · Business Continuity**
 
 </div>
 
 ---
 
-## 🛡️ More than hosting. A complete infrastructure partner.
+# Hosting is the foundation. Engineering is the difference.
 
-**INHOST** is the hosting, domains, cybersecurity and technical infrastructure brand of **[PROCESS IN](https://processin.mk)**, based in North Macedonia.
+**INHOST** is a Macedonia-based hosting and infrastructure brand of **[PROCESS IN](https://processin.mk)**, built around a broader mission: **helping businesses run secure, stable and maintainable digital services.**
 
-We position INHOST as a **premium Macedonian hosting and infrastructure partner** for organizations that need more than a server: they need experienced technical support, proactive security practices, diagnosis of difficult failures and ongoing operational care.
+We bring together hosting services, domain management, system administration, security-oriented operations and deep technical troubleshooting — connecting infrastructure with the applications and businesses that depend on it.
 
-> **One partner for hosting, security, Linux administration, troubleshooting and maintenance.**
+> **One technical partner for the full lifecycle of your online presence — from deployment and protection to recovery, optimization and continuous improvement.**
 
-## ⚡ Our expertise
+## What INHOST brings together
 
 <table>
 <tr><td width="50%" valign="top">
 
-### 🌐 Web Hosting & Domains
-Hosting solutions, domain registration and management, website migrations and infrastructure guidance.
+### ☁️ Hosting & Digital Infrastructure
+Web hosting, domains, DNS operations, website and application migration, SSL/TLS configuration, deployment environments, infrastructure planning and hosting architecture.
 
-### 🛡️ Cybersecurity & Anti-Phishing
-Security-focused website and server protection, phishing-risk investigation, security hardening and incident-response assistance.
+### 🔐 Security Operations & Resilience
+Security reviews, configuration hardening, attack-surface reduction, suspicious activity investigation, phishing and abuse response, access-control hygiene, and remediation support.
 
-### 🔍 Malware Scanning & Cleanup
-Malware inspection, suspicious-file investigation, remediation planning and cleanup of compromised websites and hosting environments.
-
-### 🐧 Linux & Server Administration
-Linux administration, server configuration, service diagnostics, performance analysis, patching and operational troubleshooting.
+### 🐧 Linux & Systems Engineering
+Linux administration, web server and service configuration, runtime environments, resource troubleshooting, permissions, system updates, logs and operational diagnostics.
 
 </td><td width="50%" valign="top">
 
-### 🐳 Docker & Application Environments
-Docker-based deployments, container troubleshooting, application environments and infrastructure configuration.
+### 🛠️ Application & Incident Support
+Website failures, broken deployments, configuration conflicts, application errors, database connectivity, compatibility issues, error tracing and root-cause investigation.
 
-### 🧩 Debugging & Bug Resolution
-Investigation of website and application errors, PHP/runtime issues, database connectivity, web server faults and complex production bugs.
+### 🚀 Performance & Continuity
+Performance diagnostics, caching strategy, resource optimization, availability analysis, backup and restore planning, migrations, and recovery-oriented operations.
 
-### 🔧 Maintenance & Technical Care
-Website maintenance, updates, reliability checks, recovery planning, incident diagnosis and ongoing technical support.
-
-### 🚀 Performance & Reliability
-Website and server performance tuning, resource analysis, stability improvements and deployment guidance.
+### 🔄 Managed Technical Care
+Preventive maintenance, update planning, operational checks, environment improvements, technical coordination and ongoing assistance for production systems.
 
 </td></tr>
 </table>
 
+## Security is a process, not a badge
+
+Security does not end with an SSL certificate or a scanner. A professional approach combines **prevention, detection, investigation, remediation and recovery**.
+
 <div align="center">
 
-### Built for the problems ordinary hosting cannot solve.
-
-![Linux](https://img.shields.io/badge/Linux-Administration-101827?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-1673E8?style=flat-square&logo=docker&logoColor=white)
-![Security](https://img.shields.io/badge/Cybersecurity-Defense-101827?style=flat-square)
-![Malware](https://img.shields.io/badge/Malware-Scanning_%26_Cleanup-1673E8?style=flat-square)
-![Debug](https://img.shields.io/badge/Debugging-Production_Issues-101827?style=flat-square)
-![Maintenance](https://img.shields.io/badge/Maintenance-Technical_Care-1673E8?style=flat-square)
+| PREVENT | DETECT | INVESTIGATE | REMEDIATE | RECOVER |
+|:---:|:---:|:---:|:---:|:---:|
+| Hardening | Monitoring | Diagnostics | Cleanup | Restoration |
+| Updates | Scanning | Log review | Isolation | Verification |
 
 </div>
 
----
+Typical areas of investigation include compromised websites, malicious redirects, suspicious files, phishing pages, vulnerable extensions, credential abuse, unsafe permissions and unexpected server behavior. The appropriate response depends on the affected environment and the scope of engagement.
 
-## 🇲🇰 INHOST — Повеќе од хостинг
+## Technology & operational expertise
 
-**INHOST** е македонски бренд за хостинг, домени, сајбер-безбедност и техничка инфраструктура, зад кој стои **PROCESS IN**.
+<div align="center">
 
-Нашата цел е INHOST да биде **прв избор за компании што бараат безбеден хостинг и вистинска техничка експертиза**, а не само простор на сервер.
+![Linux](https://img.shields.io/badge/Linux-Systems-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-1673E8?style=for-the-badge&logo=docker&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-Hosting-111827?style=for-the-badge&logo=cpanel)
+![PHP](https://img.shields.io/badge/PHP-Runtimes-1673E8?style=for-the-badge&logo=php&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-Databases-111827?style=for-the-badge&logo=mariadb&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS_%26_SSL-Operations-1673E8?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Response-111827?style=for-the-badge)
+![Diagnostics](https://img.shields.io/badge/Production-Diagnostics-1673E8?style=for-the-badge)
 
-| Област | Што опфаќа |
-|---|---|
-| **Хостинг и домени** | Веб-хостинг, доменски услуги, миграции и техничка поддршка |
-| **Заштита од phishing и сајбер-напади** | Безбедносна анализа, превенција, зацврстување на конфигурации и помош при инциденти |
-| **Malware скенер и чистење** | Проверка за малициозен код, истрага на заразени датотеки и чистење |
-| **Linux администрација** | Управување со сервери, сервиси, конфигурации и дијагностика |
-| **Docker** | Контејнерски околини, распоредување и решавање проблеми |
-| **Дебагирање и поправки** | Откривање и решавање грешки на веб-страници, апликации и сервери |
-| **Одржување** | Ажурирања, технички проверки, оптимизација и континуирана грижа |
-| **Перформанси** | Анализа на оптоварување, оптимизација и стабилност |
+</div>
 
-### Нашиот пристап
-
-**Не завршуваме со активирање на хостинг пакет.** Гледаме на инфраструктурата како на дел од работењето на клиентот: безбедност, стабилност, навремена дијагностика и долгорочна поддршка.
+We work at the intersection of **hosting environments, operating systems, web stacks, databases, containers and application-level operations**. This includes troubleshooting across the infrastructure/application boundary, where many production problems are hardest to isolate.
 
 ---
 
-## 🏢 The company behind INHOST
+## 🇲🇰 INHOST — Инфраструктура со вистинска техничка поддршка
+
+**INHOST не го гледа хостингот само како простор на сервер.** За бизнисите е важно нивните веб-страници, апликации и услуги да функционираат сигурно, безбедно и стабилно.
+
+Затоа нашиот пристап ги поврзува следните области:
+
+**Хостинг и доменска инфраструктура.** Поставување и управување со веб-околини, домени, DNS, SSL/TLS, миграции и инфраструктурна конфигурација.
+
+**Сајбер-безбедност и заштита.** Проценка на ризици, безбедносно зацврстување, истрага на сомнителни активности, phishing инциденти, малициозни пренасочувања и компромитирани веб-страници.
+
+**Malware анализа и санација.** Проверки за малициозни датотеки, анализа на причината за компромитација, чистење и мерки за намалување на ризикот од повторна инфекција.
+
+**Linux и системска администрација.** Конфигурација и одржување на серверски услуги, логови, процеси, ресурси, дозволи, runtime околини и дијагностика на оперативни проблеми.
+
+**Апликациска и контејнерска инфраструктура.** Docker околини, веб-сервери, PHP и други runtime поставки, бази на податоци, deployment процеси и интеграција со апликациите.
+
+**Решавање комплексни технички проблеми.** Анализа на грешки, неуспешни deploy процеси, конфигурациски конфликти, проблеми со перформанси и дефекти што се појавуваат само во продукција.
+
+**Одржување, оптимизација и опоравување.** Превентивни проверки, ажурирања, анализа на оптоварување, резервни копии, планирање обновување и долгорочна техничка грижа.
+
+### Нашата позиција
+
+**Хостингот треба да биде почеток на стабилно дигитално работење — не дополнителен технички проблем за клиентот.**
+
+INHOST се позиционира како **сериозен македонски партнер за хостинг, сајбер-безбедност и инфраструктурно инженерство**, со поддршка од софтверското искуство на PROCESS IN.
+
+---
+
+## Behind INHOST
 
 | | |
 |---|---|
 | **Brand** | [INHOST](https://inhost.mk) |
 | **Company** | [PROCESS IN](https://processin.mk) |
-| **Country** | North Macedonia |
-| **Focus** | Hosting, domains, security, Linux infrastructure and technical operations |
-| **Company portfolio** | [PROCESS IN on GitHub](https://github.com/stambolce/process-in) |
+| **Location** | North Macedonia |
+| **Expertise** | Hosting, domains, cybersecurity, infrastructure and technical operations |
+| **Software engineering** | [PROCESS IN on GitHub](https://github.com/stambolce/process-in) |
 
-**INHOST is a brand of PROCESS IN.** PROCESS IN develops business software, SaaS products and AI solutions, while INHOST focuses on hosting and infrastructure-related services.
+**PROCESS IN** is the company behind INHOST, developing enterprise software, SaaS products, AI-enabled systems and integrations.
 
 <div align="center">
 
-### Your business deserves infrastructure you can rely on.
+### Your infrastructure deserves more than a control panel.
 
-[![Explore INHOST](https://img.shields.io/badge/EXPLORE_INHOST-INHOST.MK-1673E8?style=for-the-badge)](https://inhost.mk)
-[![Meet PROCESS IN](https://img.shields.io/badge/MEET_THE_COMPANY-PROCESSIN.MK-101827?style=for-the-badge)](https://processin.mk)
+[![Explore INHOST](https://img.shields.io/badge/EXPLORE_SERVICES-INHOST.MK-1673E8?style=for-the-badge)](https://inhost.mk)
+[![PROCESS IN](https://img.shields.io/badge/OUR_ENGINEERING_COMPANY-PROCESSIN.MK-111827?style=for-the-badge)](https://processin.mk)
 
 </div>
 
 ---
 
-<sub>**Service note:** The categories above describe INHOST's positioning and areas of expertise. Specific security controls, response times, service levels, packages and availability must be confirmed through the official website or a tailored proposal. No hosting provider can guarantee complete immunity from phishing, malware or all software bugs. This public repository contains no production credentials, customer information or proprietary source code.</sub>
+<sub>**Scope & transparency:** This README describes the INHOST brand's technical positioning and service areas, not a universal SLA or a claim that every service is included in every hosting package. Specific coverage, tools, guarantees, response times and prices require confirmation in an official service proposal. No provider can guarantee complete protection from every attack or the resolution of every software issue. This repository publishes no customer information, credentials or proprietary infrastructure code.</sub>
