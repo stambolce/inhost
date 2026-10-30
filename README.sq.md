@@ -1,38 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/inhost-hero.svg" alt="INHOST — Secure Hosting, Infrastructure Engineering and Cybersecurity" width="100%" />
+# INHOST
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/inhost-hero.svg" alt="INHOST — prezantim vizual i produktit" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=3B9BFF&center=true&vCenter=true&width=1000&lines=Managed+Hosting+%26+Server+Operations;Cybersecurity+%26+Threat+Remediation;Linux+Administration+%26+Cloud+Infrastructure;Application+Recovery+%26+Performance;Technical+Expertise+Beyond+Hosting" alt="INHOST — prezantim vizual i produktit" />
+
+**Infrastrukturë që funksionon. Siguri që ka rëndësi.**
 
 [![Official Website](https://img.shields.io/badge/INHOST.MK-OFFICIAL_WEBSITE-1673E8?style=for-the-badge)](https://inhost.mk)
 [![PROCESS IN](https://img.shields.io/badge/POWERED_BY-PROCESS_IN-111827?style=for-the-badge)](https://processin.mk)
 [![North Macedonia](https://img.shields.io/badge/BASED_IN-NORTH_MACEDONIA-164B88?style=for-the-badge)](https://inhost.mk)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=3B9BFF&center=true&vCenter=true&width=1000&lines=Managed+Hosting+%26+Server+Operations;Cybersecurity+%26+Threat+Remediation;Linux+Administration+%26+Cloud+Infrastructure;Application+Recovery+%26+Performance;Technical+Expertise+Beyond+Hosting" alt="INHOST managed hosting, cybersecurity and infrastructure engineering" />
-
-
-
-
-
-### Infrastrukturë që funksionon. Siguri që ka rëndësi.
-
-**Infrastrukturë që funksionon. Siguri që ka rëndësi.**
+**LIVE**
 
 </div>
-
----
-
-# Hosting is the foundation. Engineering is the difference.
-
-
-
-We bring together hosting services, domain management, system administration, security-oriented operations and deep technical troubleshooting — connecting infrastructure with the applications and businesses that depend on it.
-
-> **One technical partner for the full lifecycle of your online presence — from deployment and protection to recovery, optimization and continuous improvement.**
 
 ## Hostingu është themeli. Inxhinieria bën dallimin.
 
@@ -80,7 +64,7 @@ Mbulimi, mjetet, garancitë, kohët e reagimit dhe çmimet përcaktohen në ofer
 |---|---|
 | Produkti | INHOST |
 | Faqja zyrtare | [inhost.mk](https://inhost.mk) |
-| Kategoria | Hosting, domene dhe inxhinieri infrastrukture |
+| Kategoria | Hosting, domene dhe infrastrukturë |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

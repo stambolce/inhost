@@ -1,38 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<img src="assets/inhost-hero.svg" alt="INHOST — Secure Hosting, Infrastructure Engineering and Cybersecurity" width="100%" />
+# INHOST
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/inhost-hero.svg" alt="INHOST — ürün görsel sunumu" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=3B9BFF&center=true&vCenter=true&width=1000&lines=Managed+Hosting+%26+Server+Operations;Cybersecurity+%26+Threat+Remediation;Linux+Administration+%26+Cloud+Infrastructure;Application+Recovery+%26+Performance;Technical+Expertise+Beyond+Hosting" alt="INHOST — ürün görsel sunumu" />
+
+**Çalışan altyapı. Önem taşıyan güvenlik.**
 
 [![Official Website](https://img.shields.io/badge/INHOST.MK-OFFICIAL_WEBSITE-1673E8?style=for-the-badge)](https://inhost.mk)
 [![PROCESS IN](https://img.shields.io/badge/POWERED_BY-PROCESS_IN-111827?style=for-the-badge)](https://processin.mk)
 [![North Macedonia](https://img.shields.io/badge/BASED_IN-NORTH_MACEDONIA-164B88?style=for-the-badge)](https://inhost.mk)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=3B9BFF&center=true&vCenter=true&width=1000&lines=Managed+Hosting+%26+Server+Operations;Cybersecurity+%26+Threat+Remediation;Linux+Administration+%26+Cloud+Infrastructure;Application+Recovery+%26+Performance;Technical+Expertise+Beyond+Hosting" alt="INHOST managed hosting, cybersecurity and infrastructure engineering" />
-
-
-
-
-
-### Çalışan altyapı. Önem taşıyan güvenlik.
-
-**Çalışan altyapı. Önem taşıyan güvenlik.**
+**LIVE**
 
 </div>
-
----
-
-# Hosting is the foundation. Engineering is the difference.
-
-
-
-We bring together hosting services, domain management, system administration, security-oriented operations and deep technical troubleshooting — connecting infrastructure with the applications and businesses that depend on it.
-
-> **One technical partner for the full lifecycle of your online presence — from deployment and protection to recovery, optimization and continuous improvement.**
 
 ## Hosting temeldir. Farkı mühendislik yaratır.
 
@@ -80,7 +64,7 @@ Kapsam, araçlar, garantiler, yanıt süreleri ve fiyatlar resmî teklifte doğr
 |---|---|
 | Ürün | INHOST |
 | Resmî site | [inhost.mk](https://inhost.mk) |
-| Kategori | Hosting, alan adları ve altyapı mühendisliği |
+| Kategori | Hosting, alan adları ve altyapı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
