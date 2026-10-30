@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 # INHOST.MK — Хостинг, домени и инфраструктурно инженерство
 
 ![INHOST — хостинг и сајбер-безбедност](assets/inhost-hero.svg)
